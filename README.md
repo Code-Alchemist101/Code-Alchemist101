@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm a passionate full stack software engineer with hands-o
 
 - 📧 Email: [parrehosanna@gmail.com](mailto:parrehosanna@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hosanna07/)  
-- 💻 [GitHub](https://github.com/hosanna12e)  
+- 💻 [GitHub](https://github.com/code-alchemist101)  
 - 🧠 [Portfolio](https://nextleap.app/portfolio/hosanna-parre)  
 
 ---
